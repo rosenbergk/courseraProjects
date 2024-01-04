@@ -1,1 +1,27 @@
+#header-nav .navbar-brand, .navbar {
+	background-color: #26ada7;
+	color: #ffffff;
+	font-size: 1.4em;
+	font-family: DancingScript, cursive;
+}
 
+#collapsible-nav {
+	background-color: #58615f;
+}
+
+hr {
+	margin-top: 0;
+	margin-bottom: 0;
+}
+
+h2 {
+	margin-top: 0;
+}
+
+#menu {
+	background-color: #8c6e3a;
+	margin-right: 50px;
+	margin-left: 50px;
+	color: #ffffff;
+	font-family: DancingScript, cursive;
+}
